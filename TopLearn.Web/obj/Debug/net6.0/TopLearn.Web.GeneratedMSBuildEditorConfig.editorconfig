@@ -1,0 +1,196 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TopLearn.Web
+build_property.RootNamespace = TopLearn.Web
+build_property.ProjectDir = F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Home/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXEhvbWVcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Home/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXEhvbWVcRWRpdFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Shared/_SideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFNoYXJlZFxfU2lkZUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Wallet/ChargeWallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFdhbGxldFxDaGFyZ2VXYWxsZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Courses/CreateCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlc1xDcmVhdGVDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Courses/CreateEpisode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlc1xDcmVhdGVFcGlzb2RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Courses/EditCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlc1xFZGl0Q291cnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Courses/EditEpisode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlc1xFZGl0RXBpc29kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Courses/IndexEpisode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlc1xJbmRleEVwaXNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Roles/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Roles/DeleteRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcRGVsZXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Roles/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcRWRpdFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Users/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcQ3JlYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Users/DeletedUserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcRGVsZXRlZFVzZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Users/DeleteUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcRGVsZXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Users/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Admin/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/Shared/_AdminDefualtLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbkRlZnVhbHRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Account/ActiveAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY3RpdmVBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Account/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Account/SuccessRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdWNjZXNzUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Home/OnlinePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPbmxpbmVQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Shared/Components/CourseGroupComponent/CourseGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ291cnNlR3JvdXBDb21wb25lbnRcQ291cnNlR3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Shared/_ActiveEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY3RpdmVFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Shared/_CourseBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db3Vyc2VCb3guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Shared/_DefualtLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZWZ1YWx0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Shared/_ForgotPasswordEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb3Jnb3RQYXNzd29yZEVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Shared/_MetaTags.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZXRhVGFncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/Shared/_Styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHlsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/C\#/project/Visual Studio Project/TopLearn/TopLearn.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

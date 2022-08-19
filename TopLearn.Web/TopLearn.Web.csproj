@@ -1,0 +1,66 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\css\fonts\Material-Design-Iconic-Font.svg" />
+    <None Include="wwwroot\css\css\fonts\Material-Design-Iconic-Font.woff2" />
+    <None Include="wwwroot\css\fonts\Material-Design-Iconic-Font.svg" />
+    <None Include="wwwroot\css\fonts\Material-Design-Iconic-Font.woff2" />
+    <None Include="wwwroot\css\js\bootstrap.min.js" />
+    <None Include="wwwroot\css\js\jquery.min.js" />
+    <None Include="wwwroot\css\js\jquery.unobtrusive-ajax.min.js" />
+    <None Include="wwwroot\css\js\jquery.validate.js" />
+    <None Include="wwwroot\css\js\jquery.validate.min.js" />
+    <None Include="wwwroot\css\js\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\css\js\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\css\js\modernizr-custom.js" />
+    <None Include="wwwroot\css\js\script.js" />
+    <None Include="wwwroot\css\noUiSlider\nouislider.min.js" />
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\js\bootstrap.min.js" />
+    <None Include="wwwroot\js\Config.js" />
+    <None Include="wwwroot\js\jquery.min.js" />
+    <None Include="wwwroot\js\jquery.unobtrusive-ajax.min.js" />
+    <None Include="wwwroot\js\jquery.validate.js" />
+    <None Include="wwwroot\js\jquery.validate.min.js" />
+    <None Include="wwwroot\js\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\js\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\js\modernizr-custom.js" />
+    <None Include="wwwroot\js\script.js" />
+    <None Include="wwwroot\noUiSlider\nouislider.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.8" />
+    <PackageReference Include="ZarinpalSandbox" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TopLearn.Core\TopLearn.Core.csproj" />
+    <ProjectReference Include="..\TopLearn.DataLayer\TopLearn.DataLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\UserPanel\Views\_ViewStart.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\course\Demoes\" />
+    <Folder Include="wwwroot\CourseFile\" />
+  </ItemGroup>
+
+</Project>

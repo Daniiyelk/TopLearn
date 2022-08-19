@@ -1,0 +1,85 @@
+﻿@page "{id}"
+@using TopLearn.DataLayer.Entities.User;
+@model TopLearn.Web.Pages.Admin.Users.EditUserModel
+@{
+    ViewData["Title"] = "ویرایش کاربر";
+    List<Role> Roles = ViewData["Roles"] as List<Role>;
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">ویرایش کاربر</h1>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+
+<div class="row">
+    <form method="post" enctype="multipart/form-data">
+        <div class="col-md-7">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    اطلاعات کاربر
+                </div>
+                <!-- /.panel-heading -->
+                <input type="hidden" asp-for="editUserByAdminViewModel.UserId" />
+                <input type="hidden" asp-for="editUserByAdminViewModel.UserAvataName" />
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label>نام کاربری </label>
+                        <label class="text-success">@Model.editUserByAdminViewModel.UserName</label>
+                    </div>
+                    <div class="form-group">
+                        <label>ایمیل</label>
+                        <input type="email" asp-for="editUserByAdminViewModel.Email" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>کلمه عبور</label>
+                        <input type="text" asp-for="editUserByAdminViewModel.Password" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>انتخاب نقش </label>
+                        @foreach (var item in Roles)
+                        {
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" name="SelectedRoles" value="@item.RoleId" @((Model.editUserByAdminViewModel.UserRoles.Any(r=>r==item.RoleId)?"checked":""))>@item.RoleTitle
+                                </label>
+                            </div>
+                        }
+                    </div>
+                    <input type="submit" value="ذخیره اطلاعات" class="btn btn-success" />
+                </div>
+                <!-- /.panel-body -->
+            </div>
+        </div>
+        <div class="col-md-5">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    تصویر پروفایل
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <img style="max-height:400px;max-width:400px" id="blah" class="thumbnail" src="/UserAvatar/@Model.editUserByAdminViewModel.UserAvataName" />
+                    <br />
+                    <div class="form-group">
+                        <label>انتخاب تصویر</label>
+                        <input type="file" asp-for="editUserByAdminViewModel.UserAvatar" id="imgInp">
+                    </div>
+                </div>
+                <!-- /.panel-body -->
+            </div>
+
+        </div>
+
+    </form>
+</div>
+@section script{
+    <script>
+        imgInp.onchange = evt => {
+            const [file] = imgInp.files
+            if (file) {
+                blah.src = URL.createObjectURL(file)
+            }
+        }
+    </script>
+}

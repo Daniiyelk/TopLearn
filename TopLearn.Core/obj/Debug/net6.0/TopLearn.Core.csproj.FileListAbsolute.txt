@@ -1,0 +1,17 @@
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.Core.deps.json
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.Core.dll
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.Core.pdb
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.csproj.AssemblyReference.cache
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.AssemblyInfoInputs.cache
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.AssemblyInfo.cs
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.csproj.CoreCompileInputs.cache
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.dll
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\refint\TopLearn.Core.dll
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.pdb
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\ref\TopLearn.Core.dll
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.Core.runtimeconfig.json
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.genruntimeconfig.cache
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.DataLayer.dll
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.DataLayer.pdb
+F:\Programing\C#\project\Visual Studio Project\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.csproj.CopyComplete
