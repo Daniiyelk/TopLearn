@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TopLearn.DataLayer.Entities.Course;
+using TopLearn.DataLayer.Entities.Order;
 using TopLearn.DataLayer.Entities.Permission;
 using TopLearn.DataLayer.Entities.User;
 using TopLearn.DataLayer.Entities.Wallet;
@@ -42,8 +43,21 @@ namespace TopLearn.DataLayer.Context
         public DbSet<CourseStatus> CourseStatuses { get; set; }
         #endregion
 
+        #region Order
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderDetail> OrderDetails { get; set; }
+        #endregion
+
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            var cascadeFKs = modelBuilder.Model.GetEntityTypes()
+                .SelectMany(t => t.GetForeignKeys())
+                .Where(fk => !fk.IsOwnership && fk.DeleteBehavior == DeleteBehavior.Cascade);
+
+            foreach (var fk in cascadeFKs)
+                fk.DeleteBehavior = DeleteBehavior.Restrict;
+
             modelBuilder.Entity<User>()
                 .HasQueryFilter(u => !u.IsDeleted);
 
@@ -52,7 +66,7 @@ namespace TopLearn.DataLayer.Context
 
             modelBuilder.Entity<CourseGroup>()
                 .HasQueryFilter(c => !c.IsDelete);
-            
+
             base.OnModelCreating(modelBuilder);
         }
     }

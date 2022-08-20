@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using TopLearn.DataLayer.Entities.Order;
 
 namespace TopLearn.DataLayer.Entities.Course
 {
@@ -72,6 +73,7 @@ namespace TopLearn.DataLayer.Entities.Course
         public CourseLevel CourseLevel { get; set; }
 
         public List<CourseEpisode> CourseEpisodes { get; set; }
+        public virtual List<OrderDetail> OrdeDetails { get; set; }
         #endregion
     }
 }
