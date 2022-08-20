@@ -30,7 +30,13 @@ namespace TopLearn.Web.Controllers
         [Route("ShowCourse/{id}")]
         public IActionResult ShowCourse(int id)
         {
-            return View();
+            var course = _courseService.GetCourseForShow(id);
+            if (course == null)
+            {
+                return NotFound();
+            }
+
+            return View(course);
         }
     }
 }

@@ -114,6 +114,13 @@ namespace TopLearn.Core.Services
             return _context.Courses.Find(id);
         }
 
+        public Course GetCourseForShow(int courseId)
+        {
+            return _context.Courses.Include(c => c.CourseEpisodes).Include(c => c.CourseLevel)
+                .Include(c => c.CourseStatus).Include(c => c.User)
+                .FirstOrDefault(c => c.CourseId == courseId);
+        }
+
         public List<ShowCourseForAdminViewModel> GetCourseForShowForAdmin()
         {
             return _context.Courses.Select(c => new ShowCourseForAdminViewModel()
@@ -135,7 +142,7 @@ namespace TopLearn.Core.Services
 
             if (!string.IsNullOrEmpty(filter))
             {
-                result = result.Where(c => c.CourseTitle.Contains(filter));
+                result = result.Where(c => c.CourseTitle.Contains(filter) || c.Tags.Contains(filter));
             }
 
             switch (getType)

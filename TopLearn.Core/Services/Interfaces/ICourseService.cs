@@ -27,6 +27,8 @@ namespace TopLearn.Core.Services.Interfaces
             ,string getType = "all",string orderByType = "date",int startPrice = 0,int endPrice=0
             ,List<int> selectedGroups = null,int take=0);
         Course GetCourseById(int id);
+        Course GetCourseForShow(int courseId);
+
         #endregion
 
         #region Episode
