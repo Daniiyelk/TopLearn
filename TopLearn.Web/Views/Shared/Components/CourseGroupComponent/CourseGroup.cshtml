@@ -8,14 +8,14 @@
                 @foreach (var item in Model.Where(p => p.ParentId == null))
                 {
                     <li>
-                        <a href=""> @item.GroupTitle</a>
+                        <a href="/Course?selectedGroups=@item.GroupId"> @item.GroupTitle</a>
                         @if (Model.Any(r => r.ParentId == item.GroupId))
                         {
                             <ul>
                                 @foreach (var item2 in Model.Where(p => p.ParentId == item.GroupId))
                                 {
                                     <li>
-                                        <a href=""> @item2.GroupTitle</a>
+                                        <a href="/Course?selectedGroups=@item2.GroupId"> @item2.GroupTitle</a>
                                     </li>
                                 }
                             </ul>

@@ -7,20 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\css\css\fonts\Material-Design-Iconic-Font.svg" />
-    <None Include="wwwroot\css\css\fonts\Material-Design-Iconic-Font.woff2" />
+    <Content Remove="wwwroot\css\style.css" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\css\fonts\Material-Design-Iconic-Font.svg" />
     <None Include="wwwroot\css\fonts\Material-Design-Iconic-Font.woff2" />
-    <None Include="wwwroot\css\js\bootstrap.min.js" />
-    <None Include="wwwroot\css\js\jquery.min.js" />
-    <None Include="wwwroot\css\js\jquery.unobtrusive-ajax.min.js" />
-    <None Include="wwwroot\css\js\jquery.validate.js" />
-    <None Include="wwwroot\css\js\jquery.validate.min.js" />
-    <None Include="wwwroot\css\js\jquery.validate.unobtrusive.js" />
-    <None Include="wwwroot\css\js\jquery.validate.unobtrusive.min.js" />
-    <None Include="wwwroot\css\js\modernizr-custom.js" />
-    <None Include="wwwroot\css\js\script.js" />
-    <None Include="wwwroot\css\noUiSlider\nouislider.min.js" />
     <None Include="wwwroot\css\style.css" />
     <None Include="wwwroot\js\bootstrap.min.js" />
     <None Include="wwwroot\js\Config.js" />

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "acaSiEnLm7oAYh/TIxGk7h2TK1wOEkt4wFYVTj1CdAU=",
+  "Hash": "S/dKogRr5Qcn8BS15cismM0kft5B6/E1QBY1Qf4uqcE=",
   "Source": "TopLearn.Web",
   "BasePath": "_content/TopLearn.Web",
   "Mode": "Default",
@@ -1785,6 +1785,23 @@
       "OriginalItemSpec": "wwwroot\\css\\CustomCss.css"
     },
     {
+      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\CustomStyle.css",
+      "SourceId": "TopLearn.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "BasePath": "_content/TopLearn.Web",
+      "RelativePath": "css/CustomStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\CustomStyle.css"
+    },
+    {
       "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.eot",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
@@ -2395,23 +2412,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\noUiSlider\\nouislider.min.js"
-    },
-    {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\style.css",
-      "SourceId": "TopLearn.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
-      "BasePath": "_content/TopLearn.Web",
-      "RelativePath": "css/style.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\captcha.jpg",
