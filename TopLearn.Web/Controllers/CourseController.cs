@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TopLearn.Core.Services.Interfaces;
 
@@ -10,10 +11,12 @@ namespace TopLearn.Web.Controllers
     public class CourseController : Controller
     {
         private ICourseService _courseService;
+        private IOrderService _orderService;
 
-        public CourseController(ICourseService courseService)
+        public CourseController(ICourseService courseService, IOrderService orderService)
         {
             _courseService = courseService;
+            _orderService = orderService;
         }
 
         public IActionResult Index(int pageId = 1, string filter = ""
@@ -37,6 +40,15 @@ namespace TopLearn.Web.Controllers
             }
 
             return View(course);
+        }
+
+        [Authorize]
+        [Route("BuyCourse/{id}")]
+        public IActionResult BuyCourse(int id)
+        {
+            _orderService.AddOrder(User.Identity.Name, id);
+
+            return Redirect("/ShowCourse/" + id);
         }
     }
 }

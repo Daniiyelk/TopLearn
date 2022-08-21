@@ -40,6 +40,7 @@ builder.Services.AddDbContext<TopLearnContext>(options =>
 builder.Services.AddTransient<IUserService, UserService>();
 builder.Services.AddTransient<IPermissionService, PermissionService>();
 builder.Services.AddTransient<ICourseService, CourseService>();
+builder.Services.AddTransient<IOrderService, OrderService>();
 builder.Services.AddTransient<IViewRenderService, RenderViewToString>();
 #endregion
 

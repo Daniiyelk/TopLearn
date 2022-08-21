@@ -20,7 +20,6 @@ namespace TopLearn.DataLayer.Entities.Order
         public int Price { get; set; }
 
 
-
         [ForeignKey("OrderId")]
         public virtual Order Order { get; set; }
 
