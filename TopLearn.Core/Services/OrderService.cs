@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -83,6 +84,16 @@ namespace TopLearn.Core.Services
 
             _context.Update(order);
             _context.SaveChanges();
+        }
+
+        public Order ShowOrderForUserPanel(string userName, int orderId)
+        {
+            int userId = _userService.GetUserIdByUserName(userName);
+
+            Order order = _context.Orders.Include(o => o.OrderDetails).ThenInclude(od => od.Course)
+                .FirstOrDefault(o => o.UserId == userId && o.OrderId == orderId);
+
+            return order;
         }
     }
 }

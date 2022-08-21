@@ -1,0 +1,90 @@
+﻿@using TopLearn.Core.Services.Interfaces
+@model TopLearn.DataLayer.Entities.Order.Order
+@inject IUserService _userService
+@{
+    ViewData["Title"] = "ShowOrder";
+}
+
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">تاپ لرن</a></li>
+            <li class="breadcrumb-item active" aria-current="page"> فاکتور های من </li>
+        </ul>
+    </nav>
+</div>
+
+<main>
+    <div class="container">
+        <div class="user-account">
+            <div class="row">
+                <partial name="_SideBar" />
+                <div class="col-md-9 col-sm-8 col-xs-12">
+                    <section class="user-account-content">
+                        <header><h1> فاکتور شما </h1></header>
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>دوره</th>
+                                    <th>تعداد</th>
+                                    <th>قیمت</th>
+                                    <th>جمع</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.OrderDetails)
+                                {
+                                     <tr>
+                                        <td>
+                                            <a href="/ShowCourse/@item.CourseId" target="_blank">@item.Course.CourseTitle</a>
+                                        </td>
+                                        <td>@item.Count</td>
+                                        <td>@item.Price</td>
+                                        <td>@((item.Price * item.Count).ToString("#,0")) تومان</td>
+                                     </tr>
+                                }
+
+                                @if(!Model.IsFinally)
+                                {
+                                    <tr>
+                                        <td colspan="1" class="text-center">کد تخفیف </td>
+                                        <td><input type="text" class="form-control"/></td>
+                                        <td colspan="2"> 
+
+                                            <input type="submit" class="btn btn-primary btn-block" value="اعمال کد تخفیف"/>
+                                        </td>
+                                    </tr>
+                                }
+                                <tr>
+                                    <td colspan="1" class="text-left">جمع کل</td>
+                                    <td colspan="3">@Model.OrderSum.ToString("#,0") تومان</td>
+                                </tr>
+                                @if (!Model.IsFinally)
+                                {
+                                    <tr>
+                                        <td colspan="4">
+
+                                        @if (_userService.BalanceUserWallet(User.Identity.Name) >= Model.OrderSum)
+                                        {
+                                            <a href="" class="btn btn-success btn-block">تایید فاکتور</a>
+                                        }
+                                        else
+                                        {
+                                             <a class="btn btn-success btn-block" disabled >تایید فاکتور</a>
+                                             <div class="alert alert-danger">
+                                                 موجودی حساب شما کافی نمی باشد لطفا از طریق این
+                                                     <a href="/UserPanel/ChargeWallet">لینک</a>
+                                                 اقدام به شارژ کیف پول خود نمایید.
+                                             </div>
+                                        }
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
