@@ -9,6 +9,7 @@ namespace TopLearn.Core.Services.Interfaces
 {
     public interface IOrderService
     {
+        bool IsFinallyOrder(string userName, int orderId);
         int AddOrder(string userName, int courseId);
         void CalculateOrderSum(int orderId);
         Order ShowOrderForUserPanel(string userName, int orderId);

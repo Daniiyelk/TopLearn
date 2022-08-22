@@ -22,12 +22,25 @@ namespace TopLearn.Web.Areas.UserPanel.Controllers
             return View();
         }
 
-        [Route("ShowOrder/{id}")]
-        public IActionResult ShowOrder(int id)
+        public IActionResult ShowOrder(int id,bool finaly=false)
         {
             var order = _orderService.ShowOrderForUserPanel(User.Identity.Name,id);
+            ViewBag.isFinally = finaly;
 
             return View(order);
         }
+
+        public IActionResult FinallyOrder(int id)
+        {
+            var finaly = _orderService.IsFinallyOrder(User.Identity.Name,id);
+
+            if (finaly)
+            {
+                return Redirect("/UserPanel/Order/ShowOrder/" + id + "/?finaly=true");
+            }
+
+            return BadRequest();
+        }
+
     }
 }

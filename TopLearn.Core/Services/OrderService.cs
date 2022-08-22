@@ -14,10 +14,12 @@ namespace TopLearn.Core.Services
     {
         private TopLearnContext _context;
         private IUserService _userService;
-        public OrderService(TopLearnContext context, IUserService userService)
+        private ICourseService _courseService;
+        public OrderService(TopLearnContext context, IUserService userService, ICourseService courseService)
         {
             _context = context;
             _userService = userService;
+            _courseService = courseService;
         }
 
         public int AddOrder(string userName, int courseId)
@@ -84,6 +86,43 @@ namespace TopLearn.Core.Services
 
             _context.Update(order);
             _context.SaveChanges();
+        }
+
+        public bool IsFinallyOrder(string userName, int orderId)
+        {
+            int userId = _userService.GetUserIdByUserName(userName);
+            var order = _context.Orders.Include(o => o.OrderDetails).ThenInclude(od => od.Course)
+                .FirstOrDefault(o => o.UserId == userId && o.OrderId == orderId);
+            if (order == null || order.IsFinally)
+            {
+                return false;
+            }
+
+            if (_userService.BalanceUserWallet(userName) >= order.OrderSum)
+            {
+                order.IsFinally = true;
+                _userService.AddWallet(new DataLayer.Entities.Wallet.Wallet
+                {
+                    Amount = order.OrderSum,
+                    CreateDate = DateTime.Now,
+                    IsPay = true,
+                    TypeId = 2,
+                    UserId = userId,
+                    Description = " پرداخت فاکتور شماره "+ order.OrderId,
+                });
+
+                _context.Update(order);
+                _context.SaveChanges();
+
+                foreach(var detail in order.OrderDetails)
+                {
+                    _courseService.AddUserCourse(userId, detail.CourseId);
+                }
+
+                return true;
+            }
+
+            return false;
         }
 
         public Order ShowOrderForUserPanel(string userName, int orderId)

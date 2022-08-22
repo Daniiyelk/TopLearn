@@ -48,7 +48,7 @@ namespace TopLearn.Web.Controllers
         {
             int orderId = _orderService.AddOrder(User.Identity.Name, id);
 
-            return Redirect("/ShowOrder/" + orderId);
+            return Redirect("/UserPanel/Order/ShowOrder/" + orderId);
         }
     }
 }

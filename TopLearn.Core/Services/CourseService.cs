@@ -83,6 +83,16 @@ namespace TopLearn.Core.Services
             return episode.EpisodeId;
         }
 
+        public void AddUserCourse(int userId, int courseId)
+        {
+            _context.UserCourses.Add(new UserCourse
+            {
+                CourseId = courseId,
+                UserId = userId
+            });
+            _context.SaveChanges();
+        }
+
         public bool CheckFileExist(string fileName)
         {
             string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/CourseFile", fileName);

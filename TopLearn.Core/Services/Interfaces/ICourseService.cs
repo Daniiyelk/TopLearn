@@ -28,6 +28,7 @@ namespace TopLearn.Core.Services.Interfaces
             ,List<int> selectedGroups = null,int take=0);
         Course GetCourseById(int id);
         Course GetCourseForShow(int courseId);
+        void AddUserCourse(int userId, int courseId);
 
         #endregion
 
