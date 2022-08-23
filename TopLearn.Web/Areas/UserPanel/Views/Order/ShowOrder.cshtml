@@ -53,11 +53,15 @@
                                 {
                                     <tr>
                                         <td colspan="1" class="text-center">کد تخفیف </td>
-                                        <td><input type="text" class="form-control"/></td>
-                                        <td colspan="2"> 
-
-                                            <input type="submit" class="btn btn-primary btn-block" value="اعمال کد تخفیف"/>
-                                        </td>
+                                        <form action="/userpanel/order/discount" method="post">
+                                            <input type="hidden" name="orderId" value="@Model.OrderId"/>
+                                            <td>
+                                                <input type="text" name="code" class="form-control"/>
+                                            </td>
+                                            <td colspan="2"> 
+                                                <input type="submit" class="btn btn-primary btn-block" value="اعمال کد تخفیف"/>
+                                            </td>
+                                        </form>
                                     </tr>
                                 }
                                 <tr>

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TopLearn.Core.DTOs;
 using TopLearn.Core.Services.Interfaces;
 using TopLearn.DataLayer.Context;
 using TopLearn.DataLayer.Entities.Order;
@@ -94,6 +95,11 @@ namespace TopLearn.Core.Services
             return _context.Orders.Where(o => o.UserId == userId).ToList();
         }
 
+        public Order GetOrderById(int id)
+        {
+            return _context.Orders.Find(id);
+        }
+
         public bool IsFinallyOrder(string userName, int orderId)
         {
             int userId = _userService.GetUserIdByUserName(userName);
@@ -139,6 +145,53 @@ namespace TopLearn.Core.Services
                 .FirstOrDefault(o => o.UserId == userId && o.OrderId == orderId);
 
             return order;
+        }
+
+        public void UpdateDiscount(Discount discount)
+        {
+            _context.Discounts.Update(discount);
+            _context.SaveChanges();
+        }
+
+        public void UpdateOrder(Order order)
+        {
+            _context.Update(order);
+            _context.SaveChanges();
+        }
+
+        public DiscountEnumReturn UseDiscount(int orderId, int code)
+        {
+            if(!_context.Discounts.Any(d=>d.DiscountCode == code))
+            {
+                return DiscountEnumReturn.NotFound;
+            }
+
+            var discount = _context.Discounts.SingleOrDefault(d=>d.DiscountCode==code);
+
+            if(discount.StartDate != null && discount.StartDate > DateTime.Now)
+            {
+                return DiscountEnumReturn.NotBegin;
+            }
+
+            if(discount.EndDate != null && discount.EndDate < DateTime.Now)
+            {
+                return DiscountEnumReturn.ExpierDate;
+            }
+
+            if(discount.DiscountCode != null && discount.UsableCount < 1)
+            {
+                return DiscountEnumReturn.Finished;
+            }
+
+            Order order = GetOrderById(orderId);
+
+            order.OrderSum = order.OrderSum - ((order.OrderSum * discount.DiscountPercent) / 100);
+            UpdateOrder(order);
+
+            discount.UsableCount -= 1;
+            UpdateDiscount(discount);
+
+            return DiscountEnumReturn.Success;
         }
     }
 }

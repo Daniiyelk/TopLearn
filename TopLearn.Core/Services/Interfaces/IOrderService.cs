@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TopLearn.DataLayer.Entities.Order;
+using TopLearn.Core.DTOs;
 
 namespace TopLearn.Core.Services.Interfaces
 {
@@ -12,7 +13,14 @@ namespace TopLearn.Core.Services.Interfaces
         bool IsFinallyOrder(string userName, int orderId);
         int AddOrder(string userName, int courseId);
         void CalculateOrderSum(int orderId);
+        void UpdateOrder(Order order);
         Order ShowOrderForUserPanel(string userName, int orderId);
+        Order GetOrderById(int id);
         List<Order> GetAllOrders(string userName);
+
+        #region Discount
+        DiscountEnumReturn UseDiscount(int orderId,int code);
+        void UpdateDiscount(Discount discount);
+        #endregion
     }
 }

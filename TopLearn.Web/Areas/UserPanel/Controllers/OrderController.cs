@@ -43,5 +43,11 @@ namespace TopLearn.Web.Areas.UserPanel.Controllers
             return BadRequest();
         }
 
+        public IActionResult DisCount(int orderId,int code)
+        {
+            var output = _orderService.UseDiscount(orderId, code);
+
+            return Redirect("/userpanel/order/showorder/"+orderId+"?type="+output.ToString());
+        }
     }
 }
