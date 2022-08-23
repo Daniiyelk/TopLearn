@@ -19,7 +19,8 @@ namespace TopLearn.Web.Areas.UserPanel.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var orders = _orderService.GetAllOrders(User.Identity.Name);
+            return View(orders);
         }
 
         public IActionResult ShowOrder(int id,bool finaly=false)

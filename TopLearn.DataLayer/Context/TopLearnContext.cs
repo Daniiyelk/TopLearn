@@ -47,6 +47,7 @@ namespace TopLearn.DataLayer.Context
         #region Order
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderDetail> OrderDetails { get; set; }
+        public DbSet<Discount> Discounts { get; set; }
         #endregion
 
 

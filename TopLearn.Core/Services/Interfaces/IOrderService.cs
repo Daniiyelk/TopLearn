@@ -13,5 +13,6 @@ namespace TopLearn.Core.Services.Interfaces
         int AddOrder(string userName, int courseId);
         void CalculateOrderSum(int orderId);
         Order ShowOrderForUserPanel(string userName, int orderId);
+        List<Order> GetAllOrders(string userName);
     }
 }
