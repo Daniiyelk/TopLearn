@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TopLearn.DataLayer.Entities.User;
 
 namespace TopLearn.DataLayer.Entities.Order
 {
@@ -20,5 +21,7 @@ namespace TopLearn.DataLayer.Entities.Order
         public int? UsableCount { get; set; }
         public DateTime? StartDate { get; set; }
         public DateTime? EndDate { get; set; }
+
+        public List<UserDiscountCode> UserDiscountCodes { get; set; }
     }
 }

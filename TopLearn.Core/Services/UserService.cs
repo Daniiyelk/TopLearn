@@ -10,6 +10,7 @@ using TopLearn.Core.Generators;
 using TopLearn.Core.Security;
 using TopLearn.Core.Services.Interfaces;
 using TopLearn.DataLayer.Context;
+using TopLearn.DataLayer.Entities.Order;
 using TopLearn.DataLayer.Entities.User;
 using TopLearn.DataLayer.Entities.Wallet;
 
@@ -438,5 +439,14 @@ namespace TopLearn.Core.Services
             _context.SaveChanges();
         }
 
+        public void AddUserDiscountCode(int userId, int discountId)
+        {
+            _context.UserDiscountCodes.Add(new UserDiscountCode()
+            {
+                DiscountId = discountId,
+                UserId = userId,
+            });
+            _context.SaveChanges();
+        }
     }
 }

@@ -34,6 +34,7 @@ namespace TopLearn.Core.Services.Interfaces
         void EditProfile(string userName,EditProfileViewModel profile);
         void ChangeUserPassword(string userName,string password);
         void AddWallet(Wallet wallet);
+        void AddUserDiscountCode(int userId, int discountId);
         void UpdateWallet(Wallet wallet);
         bool CompareUserPasswordForChange(string userName,string oldPassword);
         int BalanceUserWallet(string userName);

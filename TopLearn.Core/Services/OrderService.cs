@@ -185,11 +185,18 @@ namespace TopLearn.Core.Services
 
             Order order = GetOrderById(orderId);
 
+            if (_context.UserDiscountCodes.Any(u => u.UserId ==order.UserId && u.Discount.DiscountCode == discount.DiscountCode))
+            {
+                return DiscountEnumReturn.UserUsed;
+            }
+
             order.OrderSum = order.OrderSum - ((order.OrderSum * discount.DiscountPercent) / 100);
             UpdateOrder(order);
 
             discount.UsableCount -= 1;
             UpdateDiscount(discount);
+
+            _userService.AddUserDiscountCode(order.UserId, discount.DiscountId);
 
             return DiscountEnumReturn.Success;
         }

@@ -8,6 +8,6 @@ namespace TopLearn.Core.DTOs
 {
     public enum DiscountEnumReturn
     {
-        NotFound,NotBegin,ExpierDate,Finished,Success
+        NotFound,NotBegin,ExpierDate,Finished,Success,UserUsed
     }
 }

@@ -23,10 +23,12 @@ namespace TopLearn.Web.Areas.UserPanel.Controllers
             return View(orders);
         }
 
-        public IActionResult ShowOrder(int id,bool finaly=false)
+        public IActionResult ShowOrder(int id,bool finaly=false,string type="")
         {
             var order = _orderService.ShowOrderForUserPanel(User.Identity.Name,id);
+
             ViewBag.isFinally = finaly;
+            ViewBag.discountType = type.ToString();
 
             return View(order);
         }

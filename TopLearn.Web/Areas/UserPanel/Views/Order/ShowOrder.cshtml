@@ -3,6 +3,7 @@
 @inject IUserService _userService
 @{
     ViewData["Title"] = "ShowOrder";
+    var DiscountType = ViewBag.discountType;
 }
 
 <div class="container">
@@ -59,9 +60,55 @@
                                                 <input type="text" name="code" class="form-control"/>
                                             </td>
                                             <td colspan="2"> 
-                                                <input type="submit" class="btn btn-primary btn-block" value="اعمال کد تخفیف"/>
+                                                    <input type="submit" class="btn btn-primary btn-block" value="اعمال کد تخفیف"/>
                                             </td>
                                         </form>
+                                        @if (DiscountType!="")
+                                        {
+                                            switch(DiscountType){
+                                                case "NotFound": {
+                                                    <div class="alert alert-danger">
+                                                        <p class="text-muted">NotFound</p>
+                                                    </div>
+                                                    break;
+                                                }
+                                                case "NotBegin":
+                                                    {
+                                                    <div class="alert alert-danger">
+                                                        <p class="text-muted">NotBegin</p>
+                                                    </div>
+                                                    break;
+                                                }
+                                                case "ExpierDate":
+                                                    {
+                                                    <div class="alert alert-danger">
+                                                        <p class="text-muted">ExpierDate</p>
+                                                    </div>
+                                                    break;
+                                                }
+                                                case "Finished":
+                                                    {
+                                                    <div class="alert alert-danger">
+                                                        <p class="text-muted">Finished</p>
+                                                    </div>
+                                                    break;
+                                                }
+                                                case "Success":
+                                                    {
+                                                    <div class="alert alert-success">
+                                                        <p class="text-muted">Success</p>
+                                                    </div>
+                                                    break;
+                                                }
+                                                case "UserUsed":
+                                                    {
+                                                    <div class="alert alert-danger">
+                                                        <p class="text-muted">UserUsed</p>
+                                                    </div>
+                                                    break;
+                                                }
+                                            }
+                                        }
                                     </tr>
                                 }
                                 <tr>
