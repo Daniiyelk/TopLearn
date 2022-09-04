@@ -51,6 +51,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Pages\Admin\Discount\" />
     <Folder Include="wwwroot\course\Demoes\" />
     <Folder Include="wwwroot\CourseFile\" />
   </ItemGroup>

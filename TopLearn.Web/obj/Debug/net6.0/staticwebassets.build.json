@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S/dKogRr5Qcn8BS15cismM0kft5B6/E1QBY1Qf4uqcE=",
+  "Hash": "1GE6+CYGyKbdKMyEfPrmV3EbU6Yusts6QUe0BvmLQdM=",
   "Source": "TopLearn.Web",
   "BasePath": "_content/TopLearn.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TopLearn.Web\\wwwroot",
       "Source": "TopLearn.Web",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\bootstrap.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\bootstrap.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/css/bootstrap.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\bootstrap.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\bootstrap.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\bootstrap-rtl.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\bootstrap-rtl.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/css/bootstrap-rtl.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\css\\bootstrap-rtl.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/css/plugins/dataTables/dataTables.bootstrap.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/css/plugins/morris/morris-0.4.3.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/css/plugins/social-buttons/social-buttons.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\timeline\\timeline.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\timeline\\timeline.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/css/plugins/timeline/timeline.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\css\\plugins\\timeline\\timeline.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\sb-admin.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\sb-admin.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/css/sb-admin.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\css\\sb-admin.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/css/font-awesome.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\bordered-pulled.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\bordered-pulled.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/bordered-pulled.less",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\bordered-pulled.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\core.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\core.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/core.less",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\core.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\fixed-width.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\fixed-width.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/fixed-width.less",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\fixed-width.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\font-awesome.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\font-awesome.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/font-awesome.less",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\font-awesome.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\icons.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\icons.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/icons.less",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\icons.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\larger.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\larger.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/larger.less",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\larger.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\list.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\list.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/list.less",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\list.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\mixins.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\mixins.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/mixins.less",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\mixins.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\path.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\path.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/path.less",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\path.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\rotated-flipped.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\rotated-flipped.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/rotated-flipped.less",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\rotated-flipped.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\spinning.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\spinning.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/spinning.less",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\spinning.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\stacked.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\stacked.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/stacked.less",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\stacked.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\variables.less",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\variables.less",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/less/variables.less",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\less\\variables.less"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_bordered-pulled.scss",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_core.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_core.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_core.scss",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_fixed-width.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_fixed-width.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_fixed-width.scss",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_fixed-width.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_icons.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_icons.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_icons.scss",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_larger.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_larger.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_larger.scss",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_larger.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_list.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_list.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_list.scss",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_list.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_mixins.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_mixins.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_mixins.scss",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_path.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_path.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_path.scss",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_path.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_rotated-flipped.scss",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_spinning.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_spinning.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_spinning.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_spinning.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_stacked.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_stacked.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_stacked.scss",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_stacked.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_variables.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_variables.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/_variables.scss",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\font-awesome.scss",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\font-awesome.scss",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/font-awesome/scss/font-awesome.scss",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\bootstrap.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\bootstrap.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\bootstrap.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\bootstrap.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\demo\\dashboard-demo.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\demo\\dashboard-demo.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/demo/dashboard-demo.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\demo\\dashboard-demo.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\demo\\flot-demo.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\demo\\flot-demo.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/demo/flot-demo.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\demo\\flot-demo.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\demo\\morris-demo.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\demo\\morris-demo.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/demo/morris-demo.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\demo\\morris-demo.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\jquery-1.10.2.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\jquery-1.10.2.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/jquery-1.10.2.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\jquery-1.10.2.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/dataTables/dataTables.bootstrap.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/dataTables/jquery.dataTables.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\excanvas.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\excanvas.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/flot/excanvas.min.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\flot\\excanvas.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/flot/jquery.flot.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/flot/jquery.flot.pie.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/flot/jquery.flot.resize.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/flot/jquery.flot.tooltip.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/metisMenu/jquery.metisMenu.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\morris\\morris.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\morris\\morris.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/morris/morris.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\morris\\morris.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/plugins/morris/raphael-2.1.0.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\sb-admin.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\sb-admin.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "AdminContent/js/sb-admin.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\AdminContent\\js\\sb-admin.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\Demoes\\aaad6a1a893d462db791d0d11ee1cefb.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\Demoes\\aaad6a1a893d462db791d0d11ee1cefb.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/Demoes/aaad6a1a893d462db791d0d11ee1cefb.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\course\\Demoes\\aaad6a1a893d462db791d0d11ee1cefb.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\Demoes\\ea15d212f4214b93a441004c19b03e5f.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\Demoes\\ea15d212f4214b93a441004c19b03e5f.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/Demoes/ea15d212f4214b93a441004c19b03e5f.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\course\\Demoes\\ea15d212f4214b93a441004c19b03e5f.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\1b5d30e091cd47788476354f07a867c5.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\1b5d30e091cd47788476354f07a867c5.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/1b5d30e091cd47788476354f07a867c5.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\1b5d30e091cd47788476354f07a867c5.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\502a17173bb142c8a7a0cd9a2b59f96e.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\502a17173bb142c8a7a0cd9a2b59f96e.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/502a17173bb142c8a7a0cd9a2b59f96e.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\502a17173bb142c8a7a0cd9a2b59f96e.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\5bf76423ce54408b9edba155b01efa04.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\5bf76423ce54408b9edba155b01efa04.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/5bf76423ce54408b9edba155b01efa04.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\5bf76423ce54408b9edba155b01efa04.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\7d3ff2cbb9144d2a9187318a58d246cf.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\7d3ff2cbb9144d2a9187318a58d246cf.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/7d3ff2cbb9144d2a9187318a58d246cf.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\7d3ff2cbb9144d2a9187318a58d246cf.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\8772aedb5eeb401085c0b4e07e8acb9e.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\8772aedb5eeb401085c0b4e07e8acb9e.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/8772aedb5eeb401085c0b4e07e8acb9e.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\8772aedb5eeb401085c0b4e07e8acb9e.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\8c60566964a64c77b1ace80ea5161bc5.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\8c60566964a64c77b1ace80ea5161bc5.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/8c60566964a64c77b1ace80ea5161bc5.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\8c60566964a64c77b1ace80ea5161bc5.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\a309f3c931564aa7970cdf699f0ae4c7.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\a309f3c931564aa7970cdf699f0ae4c7.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/a309f3c931564aa7970cdf699f0ae4c7.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\a309f3c931564aa7970cdf699f0ae4c7.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\a3bde0914cf34ae2bbabfa7764cc23c7.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\a3bde0914cf34ae2bbabfa7764cc23c7.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/a3bde0914cf34ae2bbabfa7764cc23c7.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\a3bde0914cf34ae2bbabfa7764cc23c7.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\a64670a6d5004669b9b407e35bd76cad.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\a64670a6d5004669b9b407e35bd76cad.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/a64670a6d5004669b9b407e35bd76cad.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\a64670a6d5004669b9b407e35bd76cad.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\d9f26a43ead2432c954b9e34431e950b.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\d9f26a43ead2432c954b9e34431e950b.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/d9f26a43ead2432c954b9e34431e950b.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\d9f26a43ead2432c954b9e34431e950b.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\no-photo.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\image\\no-photo.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/image/no-photo.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\course\\image\\no-photo.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\1b5d30e091cd47788476354f07a867c5.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\1b5d30e091cd47788476354f07a867c5.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/1b5d30e091cd47788476354f07a867c5.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\1b5d30e091cd47788476354f07a867c5.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\502a17173bb142c8a7a0cd9a2b59f96e.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\502a17173bb142c8a7a0cd9a2b59f96e.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/502a17173bb142c8a7a0cd9a2b59f96e.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\502a17173bb142c8a7a0cd9a2b59f96e.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\5bf76423ce54408b9edba155b01efa04.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\5bf76423ce54408b9edba155b01efa04.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/5bf76423ce54408b9edba155b01efa04.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\5bf76423ce54408b9edba155b01efa04.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\7d3ff2cbb9144d2a9187318a58d246cf.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\7d3ff2cbb9144d2a9187318a58d246cf.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/7d3ff2cbb9144d2a9187318a58d246cf.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\7d3ff2cbb9144d2a9187318a58d246cf.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\8772aedb5eeb401085c0b4e07e8acb9e.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\8772aedb5eeb401085c0b4e07e8acb9e.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/8772aedb5eeb401085c0b4e07e8acb9e.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\8772aedb5eeb401085c0b4e07e8acb9e.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\8c60566964a64c77b1ace80ea5161bc5.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\8c60566964a64c77b1ace80ea5161bc5.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/8c60566964a64c77b1ace80ea5161bc5.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\8c60566964a64c77b1ace80ea5161bc5.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\a309f3c931564aa7970cdf699f0ae4c7.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\a309f3c931564aa7970cdf699f0ae4c7.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/a309f3c931564aa7970cdf699f0ae4c7.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\a309f3c931564aa7970cdf699f0ae4c7.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\a3bde0914cf34ae2bbabfa7764cc23c7.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\a3bde0914cf34ae2bbabfa7764cc23c7.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/a3bde0914cf34ae2bbabfa7764cc23c7.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\a3bde0914cf34ae2bbabfa7764cc23c7.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\a64670a6d5004669b9b407e35bd76cad.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\a64670a6d5004669b9b407e35bd76cad.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/a64670a6d5004669b9b407e35bd76cad.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\a64670a6d5004669b9b407e35bd76cad.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\no-photo.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\course\\thumb\\no-photo.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "course/thumb/no-photo.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\course\\thumb\\no-photo.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\CourseFile\\asi1.rar",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\CourseFile\\asi1.rar",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "CourseFile/asi1.rar",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\CourseFile\\asi1.rar"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\CourseFile\\asi2.rar",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\CourseFile\\asi2.rar",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "CourseFile/asi2.rar",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\CourseFile\\asi2.rar"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\courseFiles\\photo_2018-10-13_08-55-14.rar",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\courseFiles\\photo_2018-10-13_08-55-14.rar",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "courseFiles/photo_2018-10-13_08-55-14.rar",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\courseFiles\\photo_2018-10-13_08-55-14.rar"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\courseFiles\\photo_2018-10-13_09-01-27.rar",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\courseFiles\\photo_2018-10-13_09-01-27.rar",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "courseFiles/photo_2018-10-13_09-01-27.rar",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\courseFiles\\photo_2018-10-13_09-01-27.rar"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\bootstrap-rtl.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\bootstrap-rtl.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/bootstrap-rtl.min.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-rtl.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\bootstrap.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\bootstrap.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\bootstrap-rtl.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\bootstrap-rtl.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/bootstrap-rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\bootstrap-rtl.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\BYekan-webfont.eot",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\BYekan-webfont.eot",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/fonts/BYekan-webfont.eot",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\fonts\\BYekan-webfont.eot"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\BYekan-webfont.ttf",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\BYekan-webfont.ttf",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/fonts/BYekan-webfont.ttf",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\fonts\\BYekan-webfont.ttf"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\BYekan-webfont.woff",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\BYekan-webfont.woff",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/fonts/BYekan-webfont.woff",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\fonts\\BYekan-webfont.woff"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.eot",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.eot",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/fonts/Material-Design-Iconic-Font.eot",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.eot"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.svg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.svg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/fonts/Material-Design-Iconic-Font.svg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.svg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.ttf",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.ttf",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/fonts/Material-Design-Iconic-Font.ttf",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.ttf"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.woff",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.woff",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/fonts/Material-Design-Iconic-Font.woff",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.woff"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.woff2",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.woff2",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/fonts/Material-Design-Iconic-Font.woff2",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\fonts\\Material-Design-Iconic-Font.woff2"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\material-design-iconic-font.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\material-design-iconic-font.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/material-design-iconic-font.min.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\material-design-iconic-font.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\style.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\css\\style.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/css/style.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\style.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\CustomCss.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\CustomCss.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/CustomCss.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\css\\CustomCss.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\CustomStyle.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\CustomStyle.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/CustomStyle.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\css\\CustomStyle.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.eot",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.eot",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/fonts/BYekan-webfont.eot",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\BYekan-webfont.eot"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.ttf",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.ttf",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/fonts/BYekan-webfont.ttf",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\BYekan-webfont.ttf"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.woff",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.woff",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/fonts/BYekan-webfont.woff",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\BYekan-webfont.woff"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.eot",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.eot",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/fonts/Material-Design-Iconic-Font.eot",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Material-Design-Iconic-Font.eot"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.svg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.svg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/fonts/Material-Design-Iconic-Font.svg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Material-Design-Iconic-Font.svg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.ttf",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.ttf",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/fonts/Material-Design-Iconic-Font.ttf",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Material-Design-Iconic-Font.ttf"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/fonts/Material-Design-Iconic-Font.woff",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff2",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff2",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/fonts/Material-Design-Iconic-Font.woff2",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff2"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\captcha.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\captcha.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/captcha.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\captcha.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\logo.png",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\logo.png",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/logo.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\logo.png"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pattern.png",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pattern.png",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pattern.png",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pattern.png"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\1.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\1.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/1.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\1.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\2.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\2.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/2.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\2.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\3.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\3.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/3.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\3.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\4.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\4.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/4.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\4.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\5.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\5.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/5.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\5.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\6.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\6.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/6.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\6.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\7.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\7.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/7.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\7.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\8.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\8.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/8.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\8.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\avatar.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\avatar.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/avatar.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\avatar.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\big-thumb.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\big-thumb.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/big-thumb.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\big-thumb.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\namad.png",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\namad.png",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/namad.png",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\namad.png"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\namad-1.png",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\pic\\namad-1.png",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/pic/namad-1.png",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\pic\\namad-1.png"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\slide.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\images\\slide.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/images/slide.jpg",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\css\\images\\slide.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\bootstrap.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\bootstrap.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/js/jquery.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.unobtrusive-ajax.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.unobtrusive-ajax.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/js/jquery.unobtrusive-ajax.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.unobtrusive-ajax.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.validate.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.validate.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/js/jquery.validate.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.validate.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.validate.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/js/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.validate.unobtrusive.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.validate.unobtrusive.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/js/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/js/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\modernizr-custom.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\modernizr-custom.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/js/modernizr-custom.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\modernizr-custom.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\script.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\js\\script.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/js/script.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\script.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\material-design-iconic-font.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/material-design-iconic-font.min.css",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\css\\material-design-iconic-font.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\noUiSlider\\nouislider.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\noUiSlider\\nouislider.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/noUiSlider/nouislider.min.css",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\css\\noUiSlider\\nouislider.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\noUiSlider\\nouislider.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\noUiSlider\\nouislider.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "css/noUiSlider/nouislider.min.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\css\\noUiSlider\\nouislider.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\captcha.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\captcha.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/captcha.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\images\\captcha.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\logo.png",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\logo.png",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pattern.png",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pattern.png",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pattern.png",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pattern.png"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\1.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\1.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/1.jpg",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\1.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\2.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\2.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/2.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\2.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\3.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\3.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/3.jpg",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\3.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\4.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\4.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/4.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\4.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\5.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\5.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/5.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\5.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\6.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\6.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/6.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\6.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\7.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\7.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/7.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\7.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\8.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\8.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/8.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\8.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\avatar.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\avatar.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/avatar.jpg",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\avatar.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\big-thumb.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\big-thumb.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/big-thumb.jpg",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\big-thumb.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\namad.png",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\namad.png",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/namad.png",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\namad.png"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\namad-1.png",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\namad-1.png",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/pic/namad-1.png",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pic\\namad-1.png"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\slide.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\images\\slide.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "images/slide.jpg",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\Config.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\Config.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/Config.js",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Config.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/jquery.unobtrusive-ajax.min.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.unobtrusive-ajax.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/jquery.validate.js",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.unobtrusive.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.unobtrusive.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\modernizr-custom.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\modernizr-custom.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/modernizr-custom.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\js\\modernizr-custom.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\script.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\script.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\MyImages\\98491d8b-e2ca-4d08-9fdc-d79c5ae7c48a.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\MyImages\\98491d8b-e2ca-4d08-9fdc-d79c5ae7c48a.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "MyImages/98491d8b-e2ca-4d08-9fdc-d79c5ae7c48a.jpg",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\MyImages\\98491d8b-e2ca-4d08-9fdc-d79c5ae7c48a.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\noUiSlider\\nouislider.min.css",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\noUiSlider\\nouislider.min.css",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "noUiSlider/nouislider.min.css",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\noUiSlider\\nouislider.min.css"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\noUiSlider\\nouislider.min.js",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\noUiSlider\\nouislider.min.js",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "noUiSlider/nouislider.min.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\noUiSlider\\nouislider.min.js"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\017b49092db0430daa16ffb951b951f8.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\017b49092db0430daa16ffb951b951f8.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "UserAvatar/017b49092db0430daa16ffb951b951f8.jpg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\UserAvatar\\017b49092db0430daa16ffb951b951f8.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\4d2a216b8cfa45c39c5df9f65508c9fc.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\4d2a216b8cfa45c39c5df9f65508c9fc.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "UserAvatar/4d2a216b8cfa45c39c5df9f65508c9fc.jpg",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\UserAvatar\\4d2a216b8cfa45c39c5df9f65508c9fc.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\4d4977da7fbe4b0f825f292f9f9d8d7d.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\4d4977da7fbe4b0f825f292f9f9d8d7d.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "UserAvatar/4d4977da7fbe4b0f825f292f9f9d8d7d.jpg",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\UserAvatar\\4d4977da7fbe4b0f825f292f9f9d8d7d.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\Defult.jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\Defult.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "UserAvatar/Defult.jpg",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\UserAvatar\\Defult.jpg"
     },
     {
-      "Identity": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\System.Func`1[System.String].jpg",
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\System.Func`1[System.String].jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
       "RelativePath": "UserAvatar/System.Func`1[System.String].jpg",
       "AssetKind": "All",

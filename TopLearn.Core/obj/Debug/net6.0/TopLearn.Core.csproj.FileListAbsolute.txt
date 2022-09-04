@@ -32,3 +32,20 @@ C:\Users\Asus\OneDrive\Desktop\TopLearn\TopLearn.Core\obj\Debug\net6.0\refint\To
 C:\Users\Asus\OneDrive\Desktop\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.pdb
 C:\Users\Asus\OneDrive\Desktop\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.genruntimeconfig.cache
 C:\Users\Asus\OneDrive\Desktop\TopLearn\TopLearn.Core\obj\Debug\net6.0\ref\TopLearn.Core.dll
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.dll
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\refint\TopLearn.Core.dll
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.pdb
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.Core.deps.json
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.Core.runtimeconfig.json
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.Core.dll
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.Core.pdb
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.DataLayer.dll
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\bin\Debug\net6.0\TopLearn.DataLayer.pdb
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.csproj.AssemblyReference.cache
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.AssemblyInfoInputs.cache
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.AssemblyInfo.cs
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.csproj.CoreCompileInputs.cache
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.csproj.CopyComplete
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\TopLearn.Core.genruntimeconfig.cache
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.Core\obj\Debug\net6.0\ref\TopLearn.Core.dll

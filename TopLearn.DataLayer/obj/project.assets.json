@@ -2012,23 +2012,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\danii\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj",
+      "projectUniqueName": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj",
       "projectName": "TopLearn.DataLayer",
-      "projectPath": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.DataLayer\\obj\\",
+      "projectPath": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj",
+      "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
+      "outputPath": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

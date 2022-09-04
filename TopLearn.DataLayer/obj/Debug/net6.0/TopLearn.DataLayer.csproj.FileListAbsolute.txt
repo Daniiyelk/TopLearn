@@ -26,3 +26,17 @@ C:\Users\Asus\OneDrive\Desktop\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\refi
 C:\Users\Asus\OneDrive\Desktop\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.pdb
 C:\Users\Asus\OneDrive\Desktop\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.genruntimeconfig.cache
 C:\Users\Asus\OneDrive\Desktop\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\ref\TopLearn.DataLayer.dll
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.deps.json
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.runtimeconfig.json
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.dll
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.pdb
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.AssemblyReference.cache
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfoInputs.cache
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfo.cs
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.dll
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\refint\TopLearn.DataLayer.dll
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.pdb
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.genruntimeconfig.cache
+F:\Visual studio Projects\Daniiyelk\TopLearn\TopLearn.DataLayer\obj\Debug\net6.0\ref\TopLearn.DataLayer.dll

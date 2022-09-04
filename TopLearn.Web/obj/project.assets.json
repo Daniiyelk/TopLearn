@@ -13272,23 +13272,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\danii\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\TopLearn.Web.csproj",
+      "projectUniqueName": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\TopLearn.Web.csproj",
       "projectName": "TopLearn.Web",
-      "projectPath": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\TopLearn.Web.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Web\\obj\\",
+      "projectPath": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\TopLearn.Web.csproj",
+      "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
+      "outputPath": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13302,11 +13298,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj": {
-              "projectPath": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj"
+            "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj": {
+              "projectPath": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj"
             },
-            "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj": {
-              "projectPath": "F:\\Programing\\C#\\project\\Visual Studio Project\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj"
+            "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj": {
+              "projectPath": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj"
             }
           }
         }
