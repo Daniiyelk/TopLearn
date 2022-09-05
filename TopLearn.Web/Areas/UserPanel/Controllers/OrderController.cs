@@ -45,7 +45,7 @@ namespace TopLearn.Web.Areas.UserPanel.Controllers
             return BadRequest();
         }
 
-        public IActionResult DisCount(int orderId,int code)
+        public IActionResult DisCount(int orderId,string code)
         {
             var output = _orderService.UseDiscount(orderId, code);
 

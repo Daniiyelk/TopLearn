@@ -19,8 +19,9 @@ namespace TopLearn.Core.Services.Interfaces
         List<Order> GetAllOrders(string userName);
 
         #region Discount
-        DiscountEnumReturn UseDiscount(int orderId,int code);
+        DiscountEnumReturn UseDiscount(int orderId,string code);
         void UpdateDiscount(Discount discount);
+        void AddDiscount(Discount discount);    
         #endregion
     }
 }

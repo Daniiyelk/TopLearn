@@ -219,9 +219,10 @@ namespace TopLearn.DataLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("DiscountId"), 1L, 1);
 
-                    b.Property<int>("DiscountCode")
+                    b.Property<string>("DiscountCode")
+                        .IsRequired()
                         .HasMaxLength(150)
-                        .HasColumnType("int");
+                        .HasColumnType("nvarchar(150)");
 
                     b.Property<int>("DiscountPercent")
                         .HasColumnType("int");

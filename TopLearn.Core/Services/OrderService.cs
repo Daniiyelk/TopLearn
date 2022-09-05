@@ -23,6 +23,12 @@ namespace TopLearn.Core.Services
             _courseService = courseService;
         }
 
+        public void AddDiscount(Discount discount)
+        {
+            _context.Add(discount);
+            _context.SaveChanges();
+        }
+
         public int AddOrder(string userName, int courseId)
         {
             int userId = _userService.GetUserIdByUserName(userName);
@@ -159,7 +165,7 @@ namespace TopLearn.Core.Services
             _context.SaveChanges();
         }
 
-        public DiscountEnumReturn UseDiscount(int orderId, int code)
+        public DiscountEnumReturn UseDiscount(int orderId, string code)
         {
             if(!_context.Discounts.Any(d=>d.DiscountCode == code))
             {
