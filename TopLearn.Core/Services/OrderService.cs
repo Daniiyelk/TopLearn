@@ -95,10 +95,20 @@ namespace TopLearn.Core.Services
             _context.SaveChanges();
         }
 
+        public List<Discount> GetAllDiscount()
+        {
+            return _context.Discounts.ToList();
+        }
+
         public List<Order> GetAllOrders(string userName)
         {
             int userId = _userService.GetUserIdByUserName(userName);
             return _context.Orders.Where(o => o.UserId == userId).ToList();
+        }
+
+        public Discount GetDiscountById(int id)
+        {
+            return _context.Discounts.Find(id);
         }
 
         public Order GetOrderById(int id)

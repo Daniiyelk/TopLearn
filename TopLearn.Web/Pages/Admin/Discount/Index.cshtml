@@ -2,3 +2,87 @@
 @model TopLearn.Web.Pages.Admin.Discount.IndexModel
 @{
 }
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">لیست تخفیف ها</h1>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <a href="/admin/Discount/createDiscount" class="btn btn-success">افزودن تخفیف جدید</a>
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <div id="dataTables-example_wrapper" class="dataTables_wrapper form-inline" role="grid">
+                        <div class="row">
+                            <form>
+                                <div class="panel-heading">
+                                    جستجو بر اساس :
+                                </div>
+                                <div class="col-sm-5 col-md-5">
+                                    <input type="text" name="" class="form-control" placeholder="کد تخفیف" />
+                                </div>
+                                <div class="col-sm-2 col-md-2">
+                                    <button type="submit" class="btn btn-info">اعمال فیلتر</button>
+                                    <a class="btn btn-info" href="/Admin/Discount">بدون فیلتر</a>
+                                </div>
+                            </form>
+                        </div>
+                        <hr />
+                        <table class="table table-striped table-bordered table-hover dataTable no-footer" id="dataTables-example" aria-describedby="dataTables-example_info">
+                            <thead>
+                                <tr>
+                                    <th>کد</th>
+                                    <th>تعداد</th>
+                                    <th>تاریخ شروع</th>
+                                    <th>تاریخ پایان</th>
+                                    <th>دستورات</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                 @foreach (var item in Model.Discounts)
+                                 {
+                                    <tr>
+                                        <td>@item.DiscountCode</td>
+                                        <td>@item.UsableCount</td>
+                                        <td>@item.StartDate</td>
+                                        <td>@item.EndDate</td>
+                                        <td>
+                                            <a href="/admin/Discount/EditDiscount/@item.DiscountId">ویرایش</a>
+                                        </td>
+                                    </tr>
+                                 }
+                            </tbody>
+                        </table>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="dataTables_paginate paging_simple_numbers" id="dataTables-example_paginate">
+                                    <ul class="pagination">
+@*
+                                        @for (int i = 1; i <= Model.userViewViewModel.PageCount; i++)
+                                        {
+                                            <li class="paginate_button @((i==Model.userViewViewModel.CurrentPage)?"active":"")" aria-controls="dataTables-example" tabindex="0">
+                                                <a href="/Admin/Users?PageId=@i">@i</a>
+                                            </li>
+                                        }*@
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+    <!-- /.col-lg-12 -->
+</div>

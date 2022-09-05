@@ -79,6 +79,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGlzY291bnRcQ3JlYXRlRGlzY291bnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/Visual studio Projects/Daniiyelk/TopLearn/TopLearn.Web/Pages/Admin/Discount/EditDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGlzY291bnRcRWRpdERpc2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Visual studio Projects/Daniiyelk/TopLearn/TopLearn.Web/Pages/Admin/Discount/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGlzY291bnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,17 +1,18 @@
-﻿@page
-@model TopLearn.Web.Pages.Admin.Discount.CreateDiscountModel
+﻿@page "{id}"
+@model TopLearn.Web.Pages.Admin.Discount.EditDiscountModel
 @{
 }
 
 <div class="row">
     <div class="col-lg-12">
-        <h1 class="page-header">افزودن کد تخفیف</h1>
+        <h1 class="page-header">ویرایش کد تخفیف</h1>
     </div>
     <!-- /.col-lg-12 -->
 </div>
 
 <div class="row">
     <form method="post">
+        <input type="hidden" asp-for="Discount.DiscountId"/>
         <div class="col-md-7">
             <h2>اطلاعات تخفیف</h2>
             <hr />
@@ -29,26 +30,15 @@
             </div>
             <div class="form-group">
                 <label>تاریخ شروع</label>
-                <input type="text" id="stDate" name="stDate" class="form-control">
+                <input type="text" asp-for="Discount.StartDate" class="form-control">
             </div>
             <div class="form-group">
                 <label>تاریخ پایان</label>
-                <input type="text" id="enDate" name="enDate" class="form-control">
+                <input type="text" asp-for="Discount.EndDate" class="form-control">
             </div>
             <br />
-            <input type="submit" value="افزودن کد تخفیف" class="btn btn-success" />
+            <input type="submit" value="ویرایش" class="btn btn-success" />
         </div>
         <div asp-validation-summary="All"></div>
     </form>
 </div>
-
-@section Script{
-    <link href="http://cdn.kendostatic.com/2013.2.918/styles/kendo.common.min.css" rel="stylesheet" />
-    <link href="http://cdn.kendostatic.com/2013.2.918/styles/kendo.default.min.css" rel="stylesheet" />
-    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-    <script src="/js/kendo.all.min.js"></script>
-    <script>
-        $("#datepicker").kendoDatePicker();
-    </script>
-
-}
