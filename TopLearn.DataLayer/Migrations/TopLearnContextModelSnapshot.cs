@@ -93,6 +93,43 @@ namespace TopLearn.DataLayer.Migrations
                     b.ToTable("Courses");
                 });
 
+            modelBuilder.Entity("TopLearn.DataLayer.Entities.Course.CourseComment", b =>
+                {
+                    b.Property<int>("CCommentId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CCommentId"), 1L, 1);
+
+                    b.Property<string>("Comment")
+                        .IsRequired()
+                        .HasMaxLength(700)
+                        .HasColumnType("nvarchar(700)");
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<bool>("IsDelete")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsReadAdmin")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("dateTime")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("CCommentId");
+
+                    b.HasIndex("CourseId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("CourseComments");
+                });
+
             modelBuilder.Entity("TopLearn.DataLayer.Entities.Course.CourseEpisode", b =>
                 {
                     b.Property<int>("EpisodeId")
@@ -550,6 +587,25 @@ namespace TopLearn.DataLayer.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("TopLearn.DataLayer.Entities.Course.CourseComment", b =>
+                {
+                    b.HasOne("TopLearn.DataLayer.Entities.Course.Course", "Course")
+                        .WithMany("CourseComments")
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("TopLearn.DataLayer.Entities.User.User", "User")
+                        .WithMany("CourseComments")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Course");
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("TopLearn.DataLayer.Entities.Course.CourseEpisode", b =>
                 {
                     b.HasOne("TopLearn.DataLayer.Entities.Course.Course", "Course")
@@ -702,6 +758,8 @@ namespace TopLearn.DataLayer.Migrations
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.Course.Course", b =>
                 {
+                    b.Navigation("CourseComments");
+
                     b.Navigation("CourseEpisodes");
 
                     b.Navigation("OrdeDetails");
@@ -754,6 +812,8 @@ namespace TopLearn.DataLayer.Migrations
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.User.User", b =>
                 {
+                    b.Navigation("CourseComments");
+
                     b.Navigation("Courses");
 
                     b.Navigation("Orders");

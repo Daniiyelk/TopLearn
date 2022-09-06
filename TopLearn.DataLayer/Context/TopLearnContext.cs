@@ -43,6 +43,7 @@ namespace TopLearn.DataLayer.Context
         public DbSet<CourseLevel> CourseLevels { get; set; }
         public DbSet<CourseStatus> CourseStatuses { get; set; }
         public DbSet<UserCourse> UserCourses { get; set; }
+        public DbSet<CourseComment> CourseComments { get; set; }
         #endregion
 
         #region Order
@@ -69,6 +70,9 @@ namespace TopLearn.DataLayer.Context
 
             modelBuilder.Entity<CourseGroup>()
                 .HasQueryFilter(c => !c.IsDelete);
+
+            modelBuilder.Entity<CourseComment>()
+                .HasQueryFilter(cc => !cc.IsDelete);
 
             base.OnModelCreating(modelBuilder);
         }
