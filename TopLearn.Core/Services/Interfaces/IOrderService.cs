@@ -23,7 +23,8 @@ namespace TopLearn.Core.Services.Interfaces
         List<Discount> GetAllDiscount();
         Discount GetDiscountById(int id);   
         void UpdateDiscount(Discount discount);
-        void AddDiscount(Discount discount);    
+        void AddDiscount(Discount discount);
+        bool IsExistCode(string code);
         #endregion
     }
 }

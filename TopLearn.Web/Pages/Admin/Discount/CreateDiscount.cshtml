@@ -1,4 +1,4 @@
-﻿@page
+﻿@page "{handler?}"
 @model TopLearn.Web.Pages.Admin.Discount.CreateDiscountModel
 @{
 }
@@ -17,7 +17,10 @@
             <hr />
             <div class="form-group">
                 <label>کد تخفیف</label>
-                <input type="text" asp-for="Discount.DiscountCode" class="form-control">
+                <input type="text" id="Discount_DiscountCode" asp-for="Discount.DiscountCode" class="form-control">
+                <div id="alertCode" class="alert alert-danger" style="display:none">
+                    <p class="text-muted">کد وارد شده معتبر نمی باشد</p>
+                </div>
             </div>
             <div class="form-group">
                 <label>درصد کد تخفیف</label>
@@ -43,6 +46,23 @@
 </div>
 
 @section Script{
+    <script>
+        $("#Discount_DiscountCode").blur(function(){
+
+            $.ajax({
+                type: "get",
+                url: "/Admin/Discount/CreatDiscount/CheckCode?code=" + $("#Discount_DiscountCode").val()
+            }).done(function(res){
+                if(res==='True'){
+                    $("#alertCode").show();
+                }
+                else{
+                    $("#alertCode").hide();
+                }
+            });
+        });
+    </script>
+
     <link href="http://cdn.kendostatic.com/2013.2.918/styles/kendo.common.min.css" rel="stylesheet" />
     <link href="http://cdn.kendostatic.com/2013.2.918/styles/kendo.default.min.css" rel="stylesheet" />
     <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>

@@ -116,6 +116,11 @@ namespace TopLearn.Core.Services
             return _context.Orders.Find(id);
         }
 
+        public bool IsExistCode(string code)
+        {
+            return _context.Discounts.Any(d=>d.DiscountCode==code);
+        }
+
         public bool IsFinallyOrder(string userName, int orderId)
         {
             int userId = _userService.GetUserIdByUserName(userName);

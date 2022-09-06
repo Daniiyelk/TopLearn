@@ -46,5 +46,10 @@ namespace TopLearn.Web.Pages.Admin.Discount
 
             return RedirectToPage("index");
         }
+
+        public IActionResult OnGetCheckCode(string code)
+        {
+            return Content(_orderservice.IsExistCode(code).ToString());
+        }
     }
 }
