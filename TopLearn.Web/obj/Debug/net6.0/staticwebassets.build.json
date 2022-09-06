@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eGvGzDDSJw8HFcZxa2xFk2OVWdeh0etJ+XgRdGJ/9nA=",
+  "Hash": "plQYyGUDzy/DzTYhtBFKiVD3m+yKGX+v6+uSuNH1QgU=",
   "Source": "TopLearn.Web",
   "BasePath": "_content/TopLearn.Web",
   "Mode": "Default",
@@ -1494,40 +1494,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CourseFile\\asi2.rar"
-    },
-    {
-      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\courseFiles\\photo_2018-10-13_08-55-14.rar",
-      "SourceId": "TopLearn.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
-      "BasePath": "_content/TopLearn.Web",
-      "RelativePath": "courseFiles/photo_2018-10-13_08-55-14.rar",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\courseFiles\\photo_2018-10-13_08-55-14.rar"
-    },
-    {
-      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\courseFiles\\photo_2018-10-13_09-01-27.rar",
-      "SourceId": "TopLearn.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
-      "BasePath": "_content/TopLearn.Web",
-      "RelativePath": "courseFiles/photo_2018-10-13_09-01-27.rar",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\courseFiles\\photo_2018-10-13_09-01-27.rar"
     },
     {
       "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\css\\bootstrap.min.css",

@@ -1,9 +1,19 @@
 ﻿@model TopLearn.DataLayer.Entities.Course.Course
 
+@using TopLearn.Core.Services.Interfaces;
 @using TopLearn.Core.Convertors
+
+@inject IOrderService _orderService;
 
 @{
     ViewData["Title"] = "ShowCourse";
+
+    bool IsExistUserInCourse = false;
+
+    if(User.Identity.IsAuthenticated){
+        IsExistUserInCourse = _orderService.IsUserInCourse(User.Identity.Name, Model.CourseId);
+    }
+
 }
 
 
@@ -28,11 +38,30 @@
 
                             @Html.Raw(Model.CourseDescription)
 
+                            @if(!IsExistUserInCourse){
+                                <div class="alert alert-info">
+                                    <p>پس از ثبت نام در دوره و تایید فاکتور قادر به دانلود خواهید بود</p>
+                                </div>
+                            }
+
                             <h2> سرفصل های این دوره : </h2>
                             <ul>
                                 @foreach (var item in Model.CourseEpisodes)
                                 {
-                                        <li> <h3>@item.EpisodeTitle</h3> <i> @((item.IsFree==true)?"رایگان":"نقدی") </i> <span>@item.EpisodeTime</span></li>
+                                    <li> 
+                                        <h3>
+                                            @if(@item.IsFree || @IsExistUserInCourse){
+                                                <a href="/DownloadFile/@item.EpisodeId">
+                                                 @item.EpisodeTitle
+                                                 </a>
+                                            }
+                                            else{
+                                                @item.EpisodeTitle
+                                            }
+                                        </h3>
+                                        <i> @((item.IsFree==true)?"رایگان":"نقدی") </i>
+                                        <span>@item.EpisodeTime</span>
+                                    </li>
                                 }
                             </ul>
                         </section>
@@ -175,11 +204,11 @@
                                 </li>
                                 <li>
                                     <span> تعداد دانشجوها </span>
-                                    <i> 0 نفر </i>
+                                    <i> @Model.UserCourses.Count() نفر </i>
                                 </li>
                             </ul>
 
-                            @if(Model.CoursePrice!=0){
+                            @if(Model.CoursePrice!=0 && !IsExistUserInCourse){
                                     <a href="/BuyCourse/@Model.CourseId"> شرکت در دوره : @Model.CoursePrice.ToString("#,0") تومان </a>
                             }
                         </div>
@@ -195,7 +224,7 @@
                                 <li>سطح دوره: @Model.CourseLevel.LevelTitle</li>
                                 <li>وضعیت دوره: @Model.CourseStatus.StatusTitle</li>
                                 
-                                    @if(Model.CoursePrice !=0){
+                                    @if(Model.CoursePrice != 0){
                                          <li> 
                                              قیمت : @Model.CoursePrice.ToString("#,0") تومان
                                          </li>

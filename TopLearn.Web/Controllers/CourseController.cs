@@ -50,5 +50,32 @@ namespace TopLearn.Web.Controllers
 
             return Redirect("/UserPanel/Order/ShowOrder/" + orderId);
         }
+
+        [Authorize]
+        [Route("DownloadFile/{episodeId}")]
+        public IActionResult DownloadFile(int episodeId)
+        {
+            var episode = _courseService.GetEpisodeById(episodeId);
+            
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/CourseFile",episode.EpisodeFileName);
+            string fileName = episode.EpisodeFileName;
+
+            if (episode.IsFree)
+            {
+                byte[] file = System.IO.File.ReadAllBytes(filePath);
+                return File(file,"application/force_download",fileName);
+            }
+
+            if (User.Identity.IsAuthenticated)
+            {
+                if (_orderService.IsUserInCourse(User.Identity.Name, episode.CourseId))
+                {
+                    byte[] file = System.IO.File.ReadAllBytes(filePath);
+                    return File(file, "application/force_download", fileName);
+                }
+            }
+
+            return Forbid();
+        }
     }
 }

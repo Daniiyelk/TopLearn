@@ -128,6 +128,7 @@ namespace TopLearn.Core.Services
         {
             return _context.Courses.Include(c => c.CourseEpisodes).Include(c => c.CourseLevel)
                 .Include(c => c.CourseStatus).Include(c => c.User)
+                .Include(c=>c.UserCourses)
                 .FirstOrDefault(c => c.CourseId == courseId);
         }
 

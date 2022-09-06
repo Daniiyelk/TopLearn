@@ -158,6 +158,12 @@ namespace TopLearn.Core.Services
             return false;
         }
 
+        public bool IsUserInCourse(string userName, int courseId)
+        {
+            int userId = _userService.GetUserIdByUserName(userName);
+            return _context.UserCourses.Any(u=>u.UserId==userId && u.CourseId==courseId);
+        }
+
         public Order ShowOrderForUserPanel(string userName, int orderId)
         {
             int userId = _userService.GetUserIdByUserName(userName);

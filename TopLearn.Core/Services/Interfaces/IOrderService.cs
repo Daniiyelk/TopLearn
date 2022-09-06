@@ -11,6 +11,7 @@ namespace TopLearn.Core.Services.Interfaces
     public interface IOrderService
     {
         bool IsFinallyOrder(string userName, int orderId);
+        bool IsUserInCourse(string userName, int courseId);
         int AddOrder(string userName, int courseId);
         void CalculateOrderSum(int orderId);
         void UpdateOrder(Order order);
