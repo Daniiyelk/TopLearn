@@ -86,12 +86,8 @@ namespace TopLearn.Web.Controllers
 
         [HttpPost]
         [Route("Login")]
-        public IActionResult LogIn(LogInViewModel logIn)
+        public IActionResult LogIn(LogInViewModel logIn,string ReturnUrl)
         {
-            if (!ModelState.IsValid)
-            {
-                return View(logIn);
-            }
 
             var user = _userService.LogInUser(logIn);
 
@@ -112,8 +108,16 @@ namespace TopLearn.Web.Controllers
                         IsPersistent = logIn.RememberMe
                     };
                     HttpContext.SignInAsync(principal, properties);
-                    ViewBag.IsSuccess = true;
-                    return View();
+
+                    if (!string.IsNullOrEmpty(ReturnUrl))
+                    {
+                        return Redirect(ReturnUrl);
+                    }
+                    else
+                    {
+                        return Redirect("/userPanel");
+                    }
+                    
                 }
                 else
                 {

@@ -20,24 +20,12 @@
                 بدلیل ویرایش پروفایل و بارگزاری مجدد اطلاعات مجددا لاگین کنید 
             </div>
         }
-        @if (ViewBag.IsSuccess != null)
-        {
-            <div class="alert alert-success">
-                <p class="help-block">ورود با موفقیت انجام شد</p>
-            </div>
-
-            <script>
-                // Your delay in milliseconds
-                var delay = 2000; 
-                setTimeout(function () { window.location = "https://localhost:7042/UserPanel"; }, delay);
-            </script>
-        }
 
         <header><h2> ورود به سایت </h2></header>
 
         <div class="form-layer">
 
-            <form asp-action="LogIn" method="post">
+            <form method="post">
 
                 <div class="input-group">
                     <span class="input-group-addon" id="email-address"><i class="zmdi zmdi-email"></i></span>
