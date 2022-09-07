@@ -24,6 +24,12 @@ namespace TopLearn.Core.Services
             _context = context;
         }
 
+        public void AddComment(CourseComment comment)
+        {
+            _context.CourseComments.Add(comment);
+            _context.SaveChanges();
+        }
+
         public int AddCourse(Course course, IFormFile imageUp, IFormFile demoUp)
         {
             course.CreateDate = DateTime.Now;
@@ -97,6 +103,19 @@ namespace TopLearn.Core.Services
         {
             string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/CourseFile", fileName);
             return File.Exists(filePath);
+        }
+
+        public Tuple<List<CourseComment>, int> GetAllComment(int courseId, int pagId)
+        {
+
+            int take = 5;
+            int skip = (pagId - 1) * take;
+            int count = _context.CourseComments.Where(cc => cc.CourseId == courseId).Count()/take+1;
+
+            return Tuple.Create(_context.CourseComments
+                .Include(c=>c.User).Where(cc => cc.CourseId == courseId)
+                .OrderByDescending(c=>c.dateTime)
+                .Skip(skip).Take(take).ToList(), count);
         }
 
         public List<CourseGroup> GetAllCourses()

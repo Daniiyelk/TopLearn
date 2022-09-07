@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TopLearn.Core.Services.Interfaces;
+using TopLearn.DataLayer.Entities.Course;
 
 namespace TopLearn.Web.Controllers
 {
@@ -12,11 +13,13 @@ namespace TopLearn.Web.Controllers
     {
         private ICourseService _courseService;
         private IOrderService _orderService;
+        private IUserService _userService;
 
-        public CourseController(ICourseService courseService, IOrderService orderService)
+        public CourseController(ICourseService courseService, IOrderService orderService,IUserService userService)
         {
             _courseService = courseService;
             _orderService = orderService;
+            _userService = userService;
         }
 
         public IActionResult Index(int pageId = 1, string filter = ""
@@ -76,6 +79,24 @@ namespace TopLearn.Web.Controllers
             }
 
             return Forbid();
+        }
+
+        [Authorize]
+        [HttpPost]
+        public IActionResult CreateComment(CourseComment comment)
+        {
+            comment.dateTime = DateTime.Now;
+            comment.IsDelete = false;
+            comment.IsReadAdmin = false;
+            comment.UserId = _userService.GetUserIdByUserName(User.Identity.Name);
+            _courseService.AddComment(comment);
+
+            return View("ShowComment",_courseService.GetAllComment(comment.CourseId,1));
+        }
+
+        public IActionResult ShowComment(int id,int pageId=1)
+        {
+            return View(_courseService.GetAllComment(id,pageId));
         }
     }
 }

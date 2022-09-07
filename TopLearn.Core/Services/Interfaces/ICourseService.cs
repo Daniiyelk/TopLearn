@@ -41,5 +41,9 @@ namespace TopLearn.Core.Services.Interfaces
         CourseEpisode GetEpisodeById(int id);
         #endregion
 
+        #region Comment
+        void AddComment(CourseComment comment);
+        Tuple<List<CourseComment>,int> GetAllComment(int courseId,int pagId);
+        #endregion
     }
 }

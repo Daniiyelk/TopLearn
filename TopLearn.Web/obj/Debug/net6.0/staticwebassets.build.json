@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "plQYyGUDzy/DzTYhtBFKiVD3m+yKGX+v6+uSuNH1QgU=",
+  "Hash": "hJxm9TxsTxwfQNfjIMkLCfnB7B8BjUAMjp87wZUVPoA=",
   "Source": "TopLearn.Web",
   "BasePath": "_content/TopLearn.Web",
   "Mode": "Default",
@@ -2701,6 +2701,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
+    },
+    {
+      "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.js",
+      "SourceId": "TopLearn.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "BasePath": "_content/TopLearn.Web",
+      "RelativePath": "js/jquery.unobtrusive-ajax.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.unobtrusive-ajax.js"
     },
     {
       "Identity": "F:\\Visual studio Projects\\Daniiyelk\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
