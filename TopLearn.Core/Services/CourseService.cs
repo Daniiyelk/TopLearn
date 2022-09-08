@@ -110,11 +110,11 @@ namespace TopLearn.Core.Services
 
             int take = 5;
             int skip = (pagId - 1) * take;
-            int count = _context.CourseComments.Where(cc => cc.CourseId == courseId).Count()/take+1;
+            int count = _context.CourseComments.Where(cc => cc.CourseId == courseId).Count() / take + 1;
 
             return Tuple.Create(_context.CourseComments
-                .Include(c=>c.User).Where(cc => cc.CourseId == courseId)
-                .OrderByDescending(c=>c.dateTime)
+                .Include(c => c.User).Where(cc => cc.CourseId == courseId)
+                .OrderByDescending(c => c.dateTime)
                 .Skip(skip).Take(take).ToList(), count);
         }
 
@@ -147,7 +147,7 @@ namespace TopLearn.Core.Services
         {
             return _context.Courses.Include(c => c.CourseEpisodes).Include(c => c.CourseLevel)
                 .Include(c => c.CourseStatus).Include(c => c.User)
-                .Include(c=>c.UserCourses)
+                .Include(c => c.UserCourses)
                 .FirstOrDefault(c => c.CourseId == courseId);
         }
 
@@ -280,6 +280,23 @@ namespace TopLearn.Core.Services
         public CourseEpisode GetEpisodeById(int id)
         {
             return _context.CourseEpisodes.Find(id);
+        }
+
+        public List<ShowCourseItemListViewModel> GetPopularCourse()
+        {
+            return _context.Courses.Include(c => c.OrdeDetails)
+                .AsEnumerable()
+                .Where(c=>c.OrdeDetails.Any())
+                .OrderByDescending(d => d.OrdeDetails.Count)
+                .Take(8)
+                .Select(e => new ShowCourseItemListViewModel()
+                {
+                    CourseId = e.CourseId,
+                    ImageName = e.CourseImageName,
+                    Price = e.CoursePrice,
+                    Title = e.CourseTitle,
+                    TotalTime = new TimeSpan(e.CourseEpisodes.Sum(f => f.EpisodeTime.Ticks))
+                }).ToList();
         }
 
         public List<SelectListItem> GetSmallCourseGroups(int bigGroupId)

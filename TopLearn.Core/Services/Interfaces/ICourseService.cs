@@ -29,6 +29,7 @@ namespace TopLearn.Core.Services.Interfaces
         Course GetCourseById(int id);
         Course GetCourseForShow(int courseId);
         void AddUserCourse(int userId, int courseId);
+        List<ShowCourseItemListViewModel> GetPopularCourse();
 
         #endregion
 

@@ -16,6 +16,8 @@ namespace TopLearn.Web.Controllers
 
         public IActionResult Index()
         {
+            var pop = _courseService.GetPopularCourse();
+            ViewBag.PopularCourses = pop;
             return View(_courseService.GetCourseItemListViewModels().Item1);
         }
 
